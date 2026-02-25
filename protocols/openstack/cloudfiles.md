@@ -1,6 +1,12 @@
 Rackspace Cloud Files
 ====
 
+:::{toctree}
+:hidden:
+:titlesonly:
+../cdn/akamai
+:::
+
 ![Cloud Files Icon](_images/cloudfiles_icon.png)
 
 > Cloud Files, powered by OpenStack®, provides easy-to-use online storage for files and media which can be delivered globally at blazing speeds over Akamai's content delivery network (CDN).

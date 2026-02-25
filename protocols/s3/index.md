@@ -10,6 +10,7 @@ providers
 ../../tutorials/s3_microsoft_entra_oidc
 ../../tutorials/s3_google_oidc
 ../profiles/aws_oidc
+../cdn/cloudfront
 :::
 
 :::{image} _images/s3.png

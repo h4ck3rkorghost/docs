@@ -5,6 +5,7 @@ Swift (OpenStack Object Storage)
 :hidden:
 :titlesonly:
 providers
+../cdn/akamai
 :::
 
 :::{image} _images/swift.png

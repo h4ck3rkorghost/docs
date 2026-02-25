@@ -29,7 +29,6 @@ mountainduck/index
 :caption: Supported Protocols
 protocols/index
 protocols/profiles/index
-protocols/cdn/index
 :::
 
 :::{toctree}
